@@ -1,0 +1,126 @@
+body {
+  font-family: Verdana;
+  color: #696969;
+  background-image: url("heelal.jpg");
+}
+
+#wrapper {
+   width: 900px;
+   margin: auto;
+   background-color: white
+}
+
+header {
+  text-align: center;
+  color: #2d2c36;
+  border: 2px solid black;  
+  background-color: white;
+  height: 80px;
+  justify-content: center;
+  font-family: Arial;
+}
+
+nav {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+div#karretje img {
+height: 200px;
+}
+
+article {
+  text-align: left;
+  background-color: white;
+}
+
+.flex-container p {
+  margin: 80px;  
+  width: 350px;
+  text-align: center;
+}
+
+article h1 {
+  color: #1b8728;
+}
+
+article h2 a {
+  color: #1b8728
+}
+
+article p {
+  width: 800px;
+}
+
+ div#blokje {
+ margin: 20px;
+}
+
+div#coderen {
+  margin: 30px
+}
+
+div#coderen img {
+  width: 500px;
+  margin: auto;
+  display: block;
+}
+
+div#snel {
+  margin: 30px;
+}
+
+div#snel img {
+  width: 400px;
+  margin: auto;
+  display: block;
+}
+
+div#cybercrime {
+  margin: 30px
+}
+
+div#cybercrime img{
+  width: 500px;
+  margin: auto;
+  display: block;
+}
+
+div#onlineshoppen {
+  margin: 30px
+}
+
+div#onlineshoppen img{
+  width: 500px;
+  margin: auto;
+  display: block;
+}
+
+div#astronaut {
+  float: right;
+}
+
+div#astronaut img {
+  width: 300px;
+}
+
+a:hover{
+  cursor: pointer;
+  text-decoration: none;
+  color: #1E90FF;
+}
+
+a {
+  color: #0000CD;
+  text-decoration: none;
+}
+
+ul {
+   list-style-type: circle;
+}
